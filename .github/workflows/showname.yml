@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a script with first and last name
-        run: echo Lavreniuk Mykyta
+        run: ./showname.sh
